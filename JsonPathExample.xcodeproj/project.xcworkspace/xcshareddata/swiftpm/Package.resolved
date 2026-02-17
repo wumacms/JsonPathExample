@@ -1,0 +1,42 @@
+{
+  "originHash" : "7bb4590991a0526fd8165771670adeace223171d1a9716168d48234079cdc4fb",
+  "pins" : [
+    {
+      "identity" : "chronometer",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/KittyMac/Chronometer.git",
+      "state" : {
+        "revision" : "99d4f4137837a28e1e294eb69ac66ad53c0934d3",
+        "version" : "0.1.14"
+      }
+    },
+    {
+      "identity" : "hitch",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/KittyMac/Hitch.git",
+      "state" : {
+        "revision" : "d3bfe4b90303653d71f5423c6ec2cbe47b75d7ed",
+        "version" : "0.4.151"
+      }
+    },
+    {
+      "identity" : "sextant",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/KittyMac/Sextant.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "d4f794ac57a84dadacd1a0edd5d29717ef0e7b74"
+      }
+    },
+    {
+      "identity" : "spanker",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/KittyMac/Spanker.git",
+      "state" : {
+        "revision" : "ff05ac41aea633ca7a9fd966d3164373247ee8dd",
+        "version" : "0.2.53"
+      }
+    }
+  ],
+  "version" : 3
+}
